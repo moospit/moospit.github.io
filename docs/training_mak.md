@@ -7,7 +7,7 @@
 
 - [Quelle](https://www.theguardian.com/world/2019/may/15/israeli-tv-eurovision-webcast-hacked-with-fake-missile-alert)
 
-### Mix Megapol (ProSiebenSat1 MediaAG)
+### Mix Megapol
 **2017** - Schwedischer Radiosender spielt ca. 30 Minuten lang ISIS-Propaganda-Lied.
 
 - [Quelle](https://www.hackread.com/someone-hacked-swedish-radio-station-play-pro-isis-song/)
