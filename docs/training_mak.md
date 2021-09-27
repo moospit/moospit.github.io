@@ -26,7 +26,7 @@
 ### Czech TV CT2
 **2007** - Tschechischer Fernsehsender spielt Atombombenexplosion – aufgenommen über Wetterkamera – aus. Das ganze war eine Aktion der Ztohoven Group.
 
-- [Video](https://youtu.be/ANCWMHWIFhQ)
+- [Video](https://youtu.be/ea4eft_3p-I)
 - [Quelle](http://www.nytimes.com/2008/01/24/arts/design/24abroad.html)
 
 ## Software
