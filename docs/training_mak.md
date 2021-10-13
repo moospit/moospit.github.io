@@ -1,6 +1,6 @@
 # Trainings-Inhalte zum Seminar IP-basierte Fernsehproduktion
 
-## Hacks (Broadcast-bezogen)
+## Auswahl an Hacks (Eingriff in Sendung)
 
 ### KAN Television
 **2019** - Israelischer Fernsehsender spielt während des Halbfinales des Eurovision Warnungen zu einem angeblichen Raketenangriff aus. Meldung erfolgte wahrscheinlich durch die Hamas, diese kommentierte den Vorfall nicht.
@@ -29,9 +29,9 @@
 - [Video](https://youtu.be/ea4eft_3p-I)
 - [Quelle](http://www.nytimes.com/2008/01/24/arts/design/24abroad.html)
 
+
 ## Software
 Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
-
 
 ### Port Scanner
 - [Nmap](https://nmap.org/)
@@ -58,6 +58,8 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 - [Impacket](https://github.com/SecureAuthCorp/impacket)
 - ...
 
-## Leitfäden
+## Leitfäden & Ressourcen
 - [BSI Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)
 - [EBU R142](https://tech.ebu.ch/docs/r/r143.pdf), [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf)
+- [PTP-Security Artikel auf SpringerOpen](https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00080-y)
+- [ARPLab Container](https://github.com/moospit/arplab)
