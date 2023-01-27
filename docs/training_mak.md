@@ -40,8 +40,7 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 ### Vulnerability Assessment
 - [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner)
-- [Greenbone](https://www.greenbone.net/)
-- [OpenVAS](https://www.openvas.org/)
+- [Greenbone](https://www.greenbone.net/) ([GCE Docker](https://greenbone.github.io/docs/latest/22.4/container/index.html#docker-compose-file))
 - ...
 
 ### Web Applications
@@ -60,6 +59,7 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 ## Leitfäden & Ressourcen
 - [BSI Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)
-- [EBU R142](https://tech.ebu.ch/docs/r/r143.pdf), [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf)
+- [EBU R142](https://tech.ebu.ch/docs/r/r142.pdf), [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf)
 - [PTP-Security Artikel auf SpringerOpen](https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00080-y)
+- [PTP-Report SMTPE 2021](https://members.smpte.org/sites/default/files/6e8ed286-8887-480a-8a89-7daac0745644-hs_file_upload-er1004-2021.pdf)
 - [ARPLab Container](https://github.com/moospit/arplab)
