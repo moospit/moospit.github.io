@@ -63,8 +63,6 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 - [Scapy](https://scapy.net/) ([Python](https://www.python.org))
 - [Impacket](https://github.com/SecureAuthCorp/impacket) ([Python](https://www.python.org))
 - [GoPacket](https://github.com/google/gopacket) ([Golang](https://go.dev))
-
-
 - [tcpdump](https://www.tcpdump.org) -- [Primer](https://danielmiessler.com/study/tcpdump/)
 - [Wireshark](https://www.wireshark.org)
 
@@ -73,8 +71,6 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 - [CyberChef - Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) -- [Webapp](https://gchq.github.io/CyberChef/)
 - [29a.ch - Image Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
 - [shodan.io - IoT Suchengine](https://www.shodan.io)
-
-
 - [cvedetails - CVE Database](https://www.cvedetails.com)
 - [NIST - National Vulnerability Database](https://nvd.nist.gov/vuln)
 - [CVSS Rechner](https://www.first.org/cvss/calculator/3.1)
