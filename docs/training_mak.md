@@ -31,36 +31,88 @@
 
 
 ## Software
+
 Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 ### Port Scanner
-- [Nmap](https://nmap.org/)
+
+- [Nmap](https://nmap.org/) | [Primer](https://danielmiessler.com/study/nmap/)
 - [Zmap](https://zmap.io/)
 - ...
 
 ### Vulnerability Assessment
+
 - [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner)
 - [Greenbone](https://www.greenbone.net/) ([GCE Docker](https://greenbone.github.io/docs/latest/22.4/container/index.html#docker-compose-file))
 - ...
 
 ### Web Applications
+
 - [Burpsuite](https://portswigger.net/burp)
 - [OWASP Zap](https://owasp.org/www-project-zap/)
 - ...
 
 ### Attack Frameworks
+
 - [Metasploit](https://www.metasploit.com/)
+- [Kali Linux](https://www.kali.org)
 - ...
 
-### Packet Crafting
-- [Scapy](https://scapy.net/)
-- [Impacket](https://github.com/SecureAuthCorp/impacket)
+### Packet Crafting & Sniffer
+
+- [Scapy](https://scapy.net/) ([Python](https://www.python.org))
+- [Impacket](https://github.com/SecureAuthCorp/impacket) ([Python](https://www.python.org))
+- [GoPacket](https://github.com/google/gopacket) ([Golang](https://go.dev))
+
+- [tcpdump](https://www.tcpdump.org) | [Primer](https://danielmiessler.com/study/tcpdump/)
+- [Wireshark](https://www.wireshark.org)
+
+### Sonstiges
+
+- [CyberChef - Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) [Webapp](https://gchq.github.io/CyberChef/)
+- [29a.ch - Image Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
+- [shodan.io - IoT Suchengine](https://www.shodan.io)
+- [cvedetails - CVE Database](https://www.cvedetails.com)
+- [NIST - National Vulnerability Database](https://nvd.nist.gov/vuln)
+- [CVSS Rechner](https://www.first.org/cvss/calculator/3.1)
 - ...
+
+### Verwundbare Software zum Testen & Spielen
+
+- Systeme
+  - [Metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2/)
+  - [Metasploitable3](https://github.com/rapid7/metasploitable3)
+
+- Webapplikationen (auch als Docker-Container verfügbar)
+  - [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/)
+  - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
 
 ## Leitfäden & Ressourcen
+
+### BSI
+
 - [BSI Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)
-- [EBU R142](https://tech.ebu.ch/docs/r/r142.pdf), [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf), [EBU R148](https://tech.ebu.ch/docs/r/r148.pdf)
-- [EBU Tech 3371](https://tech.ebu.ch/docs/tech/tech3371.pdf)
+
+### PTP-Security
+
 - [PTP-Security Artikel auf SpringerOpen](https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00080-y)
 - [PTP-Report SMTPE 2021](https://members.smpte.org/sites/default/files/6e8ed286-8887-480a-8a89-7daac0745644-hs_file_upload-er1004-2021.pdf)
+
+
+### EBU Technology & Innovation
+
+- [EBU R142](https://tech.ebu.ch/docs/r/r142.pdf)
+- [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf)
+- [EBU R148](https://tech.ebu.ch/docs/r/r148.pdf)
+- [EBU Tech 3371](https://tech.ebu.ch/docs/tech/tech3371.pdf)
+
+
+### AMWA NMOS Specification
+
+- [Komplette Spezifikation](https://specs.amwa.tv/nmos/) 
+- [Secure Communication in NMOS Systems](https://specs.amwa.tv/bcp-003-01/)
+
+
+### ARP Cache Poisoning Lab
+
 - [ARPLab Container](https://github.com/moospit/arplab)
