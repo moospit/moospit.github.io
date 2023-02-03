@@ -24,11 +24,16 @@
 - [Quelle](https://heise.de/-1802232)
 
 ### Czech TV CT2
-**2007** - Tschechischer Fernsehsender spielt Atombombenexplosion – aufgenommen über Wetterkamera – aus. Das ganze war eine Aktion der Ztohoven Group.
+**2007** - Tschechischer Fernsehsender spielt Atombombenexplosion – aufgenommen über Wetterkamera – aus. Das ganze war eine Aktion der [Ztohoven Group](https://en.wikipedia.org/wiki/Ztohoven).
 
 - [Video](https://youtu.be/ea4eft_3p-I)
 - [Quelle](http://www.nytimes.com/2008/01/24/arts/design/24abroad.html)
 
+### Weitere
+ - [Max Headroom Incident](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking) (1987)
+ - [Captain Midnight (HBO)](https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion)
+ - [Southern Television Interruption](https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption) (1977)
+ - ...
 
 ## Software
 
