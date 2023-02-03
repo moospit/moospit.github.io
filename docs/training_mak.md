@@ -41,7 +41,7 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 ### Port Scanner
 
-- [Nmap](https://nmap.org/) -- [Primer](https://danielmiessler.com/study/nmap/)
+- [Nmap](https://nmap.org/) ([Primer](https://danielmiessler.com/study/nmap/))
 - [Zmap](https://zmap.io/)
 - ...
 
@@ -73,7 +73,7 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 ### Sonstiges
 
-- [CyberChef - Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) -- [Webapp](https://gchq.github.io/CyberChef/)
+- [CyberChef - Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) ([Webapp](https://gchq.github.io/CyberChef/))
 - [29a.ch - Image Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
 - [shodan.io - IoT Suchengine](https://www.shodan.io)
 - [cvedetails - CVE Database](https://www.cvedetails.com)
@@ -89,8 +89,8 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 
 
 - Webapplikationen
-  - [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/) -- [Docker Container](https://hub.docker.com/r/bkimminich/juice-shop)
-  - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) -- [Docker Container](https://hub.docker.com/r/vulnerables/web-dvwa/)
+  - [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/) ([Docker Container](https://hub.docker.com/r/bkimminich/juice-shop))
+  - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) ([Docker Container](https://hub.docker.com/r/vulnerables/web-dvwa/))
 
 ## Leitfäden & Ressourcen
 
