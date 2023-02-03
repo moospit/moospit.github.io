@@ -83,9 +83,9 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
   - [Metasploitable3](https://github.com/rapid7/metasploitable3)
 
 
-- Webapplikationen (auch als Docker-Container verfügbar)
-  - [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/)
-  - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA)
+- Webapplikationen
+  - [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/) -- [Docker Container](https://hub.docker.com/r/bkimminich/juice-shop)
+  - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) -- [Docker Container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 
 ## Leitfäden & Ressourcen
 
