@@ -118,6 +118,6 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 - [Secure Communication in NMOS Systems](https://specs.amwa.tv/bcp-003-01/)
 
 
-### ARP Cache Poisoning Lab
+### Network Security Lab (aus dem Seminar)
 
-- [ARPLab Container](https://github.com/moospit/arplab)
+- [Netzwerk Security Lab](https://github.com/moospit/net-sec-lab) (Docker-basiertes Lab)
