@@ -16,6 +16,7 @@
 **2015** - Der französiche Fernsehsender TV5 Monde wurde mit hoher Wahrscheinlichkeit von der russischen Hackergruppe APT 28 angegriffen. Der Angriff umfasste die Übernahme der Social-Media Kanäle des Senders, sowie eine lange Off-Air-Time aller 12 Fernseh-Kanäle. Die Angreifer gaben sich als IS-Aktivisten aus, um ihren wahren Ursprung zu verbergen.
 
 - [Quelle](http://www.fixsing.com/tv5monde-a-tentative-technical-analysis/)
+- [Quelle](https://www.bbc.com/news/technology-37590375) 
 
 ### KRTV & Public TV13
 **2013** - Unbekannte hatten sich in das Notfallwarnsystem der Sender KRTV und Public TV 13 gehackt und die Ausstrahlung einer Eilmeldung bewirkt. Eine verzerrte Stimme erklärte demnach während des laufenden Programms, dass sich Leichen aus ihren Gräbern erheben und die Lebenden angreifen. Die Fernsehzuschauer wurden gewarnt, sich keinesfalls den Toten zu nähern, "denn sie sind extrem gefährlich".
