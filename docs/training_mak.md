@@ -102,7 +102,8 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 ### PTP-Security
 
 - [PTP-Security Artikel auf SpringerOpen](https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00080-y)
-- [PTP-Report SMTPE 2021](https://members.smpte.org/sites/default/files/6e8ed286-8887-480a-8a89-7daac0745644-hs_file_upload-er1004-2021.pdf)
+- [SMPTE ER 1005:2021](https://f.hubspotusercontent00.net/hubfs/5253154/6e8ed286-8887-480a-8a89-7daac0745644-hs_file_upload-er1004-2021%20(1).pdf) - Report of the Study Group On Security in SMPTE ST 2059 / Threat Landscape
+- [SMPTE ER 1009:2023](https://5253154.fs1.hubspotusercontent-na1.net/hubfs/5253154/er1009-2023.pdf) - Security in SMPTE ST 2059: Threats, Controls and Mitigation Strategies
 
 
 ### EBU Technology & Innovation
@@ -110,6 +111,8 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Pentest
 - [EBU R142](https://tech.ebu.ch/docs/r/r142.pdf)
 - [EBU R143](https://tech.ebu.ch/docs/r/r143.pdf)
 - [EBU R148](https://tech.ebu.ch/docs/r/r148.pdf)
+- [EBU R160](https://tech.ebu.ch/docs/r/r160.pdf)
+- [EBU R160 Supplement 1](https://tech.ebu.ch/docs/r/r160s1.pdf) (Testing Guidelines)
 - [EBU Tech 3371](https://tech.ebu.ch/docs/tech/tech3371.pdf)
 
 
