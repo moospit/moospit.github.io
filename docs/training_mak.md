@@ -4,7 +4,7 @@
 
 ### BabyTV
 
-**2024** Sender für Kleinkinder (0-4 Jahre, im Besitz von Disney) wurde 2024 zwei Mal Opfer von russischer Kriegspropaganda. Z.T. wurden die Angriffe über den Satellitenanbieter Eutelsat verursacht.
+**2024** - Sender für Kleinkinder (0-4 Jahre, im Besitz von Disney) wurde 2024 zwei Mal Opfer von russischer Kriegspropaganda. Z.T. wurden die Angriffe über den Satellitenanbieter Eutelsat verursacht.
 
  - [Quelle](https://www.vrt.be/vrtnws/nl/2024/04/17/telenet-haalt-babytv-tijdelijk-uit-aanbod-na-nieuwe-hacking/)
  - [Quelle](https://nltimes.nl/2024/04/06/cyber-attack-tv-channel-babytv-toddlers-suddenly-exposed-russian-propaganda)
