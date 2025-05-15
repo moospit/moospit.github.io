@@ -26,7 +26,6 @@
 
 **2015** - Der französische Fernsehsender TV5 Monde wurde mit hoher Wahrscheinlichkeit von der russischen Hacker-Gruppe APT 28 angegriffen. Der Angriff umfasste die Übernahme der Social-Media Kanäle des Senders, sowie eine lange Off-Air-Time aller 12 Fernseh-Kanäle. Die Angreifer gaben sich als IS-Aktivisten aus, um ihren wahren Ursprung zu verbergen.
 
-- [Quelle](http://www.fixsing.com/tv5monde-a-tentative-technical-analysis/)
 - [Quelle](https://www.bbc.com/news/technology-37590375)
 
 ### KRTV & Public TV13
@@ -91,7 +90,7 @@ Eine Auswahl diverser Software zum Thema IT-Security-Testing und Penetrationstes
 - [CyberChef - Cyber Swiss Army Knife](https://github.com/gchq/CyberChef) ([Webapp](https://gchq.github.io/CyberChef/))
 - [29a.ch - Image Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
 - [shodan.io - IoT Suchengine](https://www.shodan.io)
-- [cvedetails - CVE Database](https://www.cvedetails.com)
+- [EU Vulnerability Database](https://euvd.enisa.europa.eu/search)
 - [NIST - National Vulnerability Database](https://nvd.nist.gov/vuln)
 - [CVSS Rechner](https://www.first.org/cvss/calculator/3.1)
 - ...
